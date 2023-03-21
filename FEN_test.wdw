@@ -16,7 +16,29 @@ window :
   height : 600
   widthClient : 798
   heightClient : 568
- controls : []
+ controls :
+  -
+    name : SAI_SansNom1
+    identifier : 0x2419da0001e34bc7
+    internal_properties : BwAAAAcAAAC8FNewEWiyxioAPNSQf8vACB6pEaVMkdY9UGxNB/kPZ/m/p4w+1KAuSAT3HlDi7ZPmjrQGqXeHaluHmaBqHW2+J8t3Fo3stKsNa9FcO+tLtU4W1sXESvkq6CwMPin41UwVvpWZ55RRnmbR0xR85we3EUBa8TZIdsOIemmU6WDo8emvECMETjInqS2J6g3IfGZjrzm6J3Ffg13+B1HxL5J00ZRrwdx6eu1gtIO199DttlQyNEhD1PC7iKlc5EISr3epeOD58NwOyUOGZ5ZcqV+X2qiqH7Qh7OeLSCfJb5NWCGrqLKzZ2ZFOpyjdSaXhi01ghbe2YPX3mfrNZqp9Ao++iOe8a+6SP6D+NmOfDGA6Wxn5N9BOBEVqKcAYqUFgIN5GBj3Gq7snZCiYR8aOhElA/pB8GAcc2nFxt8KyOEcBWOWwFca55vzH2LNAwhpJivBoFwLyYd+PWUtbjriAPf8SIe0d3N7++thBWNxGBfsLZm0m7/9AYmlto5UXKocYvKBmL54nxn3dBtQr2cc14gZUOM4oaqeqrQBzkcsYGRA8bIdwjmyO26pDcWi3C+E+XFV5emhgiOfkKiZCqXrsDCus3/HP4GGvr6y/Bw/GqIprhiEQMkIEzXsJklaQVSr04euDpLq1l6UUfUz7E4qJ4MqgRnO5qlCJIWP3L+GVABpPXnHtKthLXLAaJIyr14VrADAUY1qvS7V2YasWYt7Z9xPVGrEIFfb+00VXChORO2kbp5xLQNCeoNNrZhn5HZu7i3IMG/aEg7ZRN74glQIw3O0Va5Iam7sy4krdlg+TWaRrkYdRM+Sd1o3ZrH1J19H/c2cSSnGEMQFo7WT61jYk/g3gUTutbYzpv6LyhlNUgZySgNd4VeS8YtcoREOAuNzHOKh8kYcHsSR6LlHn/2jNuO0l6r9wmNvuGSotsfDDJOfsLv4mUCFBYwlRcptc1cOMY8H2Bw7fAE++sz9D6X2oJ2ug2VaPBPJI/pGZTU3cTL4oNVBaDY2tQbvH8fZg8eGsi1sJYD5PyEk0N9R3TmXGSYdh3ld1w9/sLi00IvG5rpol6is8Gq56ltYu2yAwNr4lozcE4O4efacnIe3wg18yvIoqmM8EzQja7i+/uMACHIanABm2iGZl7sBumrJ+m4rqzpNrHCWkDnOt4p2r4tzcaUqzjqslXAZan4E3ixKHC5xxL/xQtSBkhZ7soADE8w/3MUA2kSPTL/M9SvcvXMuyj+fahq29
+    properties :
+     x : 141
+     y : 102
+     width : 204
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
