@@ -21,7 +21,13 @@ project :
     64bits : true
  elements :
   identifier : 0x4419d53801229c36
-  elements : []
+  elements :
+   -
+     name : FEN_test
+     identifier : 0x4419d6690137468c
+     internal_properties : BwAAAAcAAAAeBHYqmcZuAc5DwA8uL1frYDcPx+yNhQpOSx2xeqrqJi4wXOpYqZBSp5EL9b0zz8ELCw==
+     physical_name : .\FEN_test.wdw
+     type : 2
   other_elements : []
   net_assemblies : []
   uwp_api : []
